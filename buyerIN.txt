@@ -1,0 +1,18 @@
+1011
+monitor
+HP-V214a
+213076
+Kazi Tanjimul Islam
+12500
+1012
+monitor
+Dell-vr56
+213085
+Rakib Hasan
+13700
+1021
+keyboard
+Logitech-k120
+213101
+Jalal Uddin
+550

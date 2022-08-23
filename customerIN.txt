@@ -1,0 +1,15 @@
+1011
+monitor
+HP-V214a
+213076
+12500
+1012
+monitor
+Dell-vr56
+213085
+13700
+1021
+keyboard
+Logitech-k120
+213101
+550

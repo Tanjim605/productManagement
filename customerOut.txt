@@ -1,0 +1,18 @@
+Product ID: 		1011
+Product Category: 	monitor
+Product Name: 		HP-V214a
+Customer ID: 		213076
+Product Price: 		12500
+
+Product ID: 		1012
+Product Category: 	monitor
+Product Name: 		Dell-vr56
+Customer ID: 		213085
+Product Price: 		13700
+
+Product ID: 		1021
+Product Category: 	keyboard
+Product Name: 		Logitech-k120
+Customer ID: 		213101
+Product Price: 		550
+

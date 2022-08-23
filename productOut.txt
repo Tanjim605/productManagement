@@ -1,0 +1,20 @@
+Product ID: 		1011
+Product Category: 	monitor
+Product Name: 		HP-V214a
+
+Product ID: 		1012
+Product Category: 	monitor
+Product Name: 		Dell-vr56
+
+Product ID: 		1021
+Product Category: 	keyboard
+Product Name: 		Logitech-k120
+
+Product ID: 		1031
+Product Category: 	mouse
+Product Name: 		A4tech-48
+
+Product ID: 		1025
+Product Category: 	keyboard
+Product Name: 		Gigabyte-64
+

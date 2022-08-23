@@ -1,0 +1,15 @@
+1011
+monitor
+HP-V214a
+1012
+monitor
+Dell-vr56
+1021
+keyboard
+Logitech-k120
+1031
+mouse
+A4tech-48
+1025
+keyboard
+Gigabyte-64
