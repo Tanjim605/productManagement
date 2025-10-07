@@ -1,1 +1,2 @@
 this file is created to check git setup from linux.
+test: added git ssh 
