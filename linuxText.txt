@@ -1,2 +1,4 @@
-this file is created to check git setup from linux.
+this file is created to check git setup from linux Ubuntu.
 test: added git ssh 
+
+this line is added from kubuntu.
